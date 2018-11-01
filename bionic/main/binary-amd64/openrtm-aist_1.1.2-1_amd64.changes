@@ -1,0 +1,49 @@
+Format: 1.8
+Date: Thu, 1 Nov 2018 18:32:25 +0900
+Source: openrtm-aist
+Binary: openrtm-aist openrtm-aist-dev openrtm-aist-example openrtm-aist-doc
+Architecture: source amd64 all
+Version: 1.1.2-1
+Distribution: precise
+Urgency: low
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Changed-By: Noriaki Ando <n-ando@aist.go.jp>
+Description:
+ openrtm-aist - OpenRTM-aist, RT-Middleware distributed by AIST
+ openrtm-aist-dev - OpenRTM-aist headers for development
+ openrtm-aist-doc - Documentation for openrtm-aist
+ openrtm-aist-example - OpenRTM-aist examples
+Changes:
+ openrtm-aist (1.1.2-1) precise; urgency=low
+ .
+   * 1.1.2-1 (1.1.2-RELEASE). OpenRTM-aist-1.1.2-RELEASE, rtm-naming updated
+Checksums-Sha1:
+ ef85b00897a574607ee17ba0612c7e1ad8ba57f9 838 openrtm-aist_1.1.2-1.dsc
+ cefa6f278c3318395f6b9f39c269f287c9a1e879 88064172 openrtm-aist_1.1.2-1.tar.gz
+ 422c2b0cd079dbb7ad0cc00a8cc9d75a658514e4 123900 openrtm-aist-dbgsym_1.1.2-1_amd64.ddeb
+ e76ae9fc6d5671c19bfc673d7412188944374404 354672 openrtm-aist-dev_1.1.2-1_amd64.deb
+ 7954f77ebfefb3bbfc7f12a9d1c75efc443184b4 59764568 openrtm-aist-doc_1.1.2-1_all.deb
+ 0e77c175a128a622dbed887f135b35b95a4d5d19 67068 openrtm-aist-example-dbgsym_1.1.2-1_amd64.ddeb
+ e3df705ec7e3c37febb5d46c50a65b7ccf6ea041 465756 openrtm-aist-example_1.1.2-1_amd64.deb
+ b3dbaa4667367b1db1a0433da2237a625a57d235 7871 openrtm-aist_1.1.2-1_amd64.buildinfo
+ 852ee203124f6152771303a0de5f5f7fdd9460b4 1280760 openrtm-aist_1.1.2-1_amd64.deb
+Checksums-Sha256:
+ d9dcbfc8bf085f775633dffe5e71ee78c43fb6b1e13a22202f4c07eaa40dd210 838 openrtm-aist_1.1.2-1.dsc
+ 824b7d84011ef030e91686509686c073aef3bdd8c796df3b01b36740a802527c 88064172 openrtm-aist_1.1.2-1.tar.gz
+ 42f00d3c28b0be766141e09ce77e7df958cf200adb0ea6e249a7623b67f3a46d 123900 openrtm-aist-dbgsym_1.1.2-1_amd64.ddeb
+ 04da8ad997164912ed3f7cc7d13f278e1c48f4b8996cb8299e1c8c9ea910bc9f 354672 openrtm-aist-dev_1.1.2-1_amd64.deb
+ 93fb222af6a9a8be65a93d04e3919070cdb1c945bbfa8c967b89353bea8ec639 59764568 openrtm-aist-doc_1.1.2-1_all.deb
+ e9991245372b19f5fa80d416954d1120513289871834d869f0a3915d120d9bd9 67068 openrtm-aist-example-dbgsym_1.1.2-1_amd64.ddeb
+ 301cb516cc5e547546fef3bcabda4987b0bd16f48caa20d66c4858cbc5e9555f 465756 openrtm-aist-example_1.1.2-1_amd64.deb
+ 69e0740f2a0da4af89024e492b836c4603c73a414b4810c516541abf98f78e7c 7871 openrtm-aist_1.1.2-1_amd64.buildinfo
+ 7aa765d36a8d9429c13d8ca0fe463e466ef9d7774936092bee6f85486f0b268b 1280760 openrtm-aist_1.1.2-1_amd64.deb
+Files:
+ 7cccd43145557bb3af5ba433dfc2eb4c 838 science extra openrtm-aist_1.1.2-1.dsc
+ 0993887063bd0c61803a422de9b9d36c 88064172 science extra openrtm-aist_1.1.2-1.tar.gz
+ b70ccccbec5a430bfce1d757859e5d1f 123900 debug optional openrtm-aist-dbgsym_1.1.2-1_amd64.ddeb
+ c0b714465a783de45235e502938561e9 354672 science extra openrtm-aist-dev_1.1.2-1_amd64.deb
+ 55a0b9bfe774df5a0182d15363244cc1 59764568 science extra openrtm-aist-doc_1.1.2-1_all.deb
+ 09694c744ea7167a447f096a6b004235 67068 debug optional openrtm-aist-example-dbgsym_1.1.2-1_amd64.ddeb
+ 91aedb3d99b780249e1e64d9a5bc953d 465756 science extra openrtm-aist-example_1.1.2-1_amd64.deb
+ b8154491cb38d807c0149c52c9b5d3a8 7871 science extra openrtm-aist_1.1.2-1_amd64.buildinfo
+ 7f7b95ef3522b0b7fe8863320bfbc871 1280760 science extra openrtm-aist_1.1.2-1_amd64.deb

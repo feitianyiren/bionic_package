@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 12 Dec 2016 18:36:29 +0900
+Source: openrtp
+Binary: openrtp
+Architecture: source amd64
+Version: 1.2.0-0
+Distribution: experimental
+Urgency: low
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Changed-By: Noriaki Ando <n-ando@aist.go.jp>
+Description:
+ openrtp    - OpenRTP, Open RT Platform distributed by AIST
+Changes:
+ openrtp (1.2.0-0) experimental; urgency=low
+ .
+   * 1.2.0-0 (1.2.0-RELEASE). OpenRTP-1.2.0-RELEASE
+Checksums-Sha1:
+ be005cf491d0ea7be44a7df73326732b09b3515e 539 openrtp_1.2.0-0.dsc
+ 13b24f94f756ea716945de050e4b70aca94df97e 266305111 openrtp_1.2.0-0.tar.gz
+ 39e6858beaa0b1f83b29e70dc8ae49dc05740f4c 5150 openrtp_1.2.0-0_amd64.buildinfo
+ 3833fd12c858b409699bfbd48730f7492d12eb1c 253920420 openrtp_1.2.0-0_amd64.deb
+Checksums-Sha256:
+ 65df38c81d1239dee6ab44e92b0e58d41944af6437cd1e443e4f34cd766fe6ac 539 openrtp_1.2.0-0.dsc
+ 3a0c189991f5c6c105340cd008a2b722f729209d5d139cebbd2871d8b7e0f4fb 266305111 openrtp_1.2.0-0.tar.gz
+ c90d4e5b31069476df2385cded2d6900e5cb3b17a9e67099d7544b90f9b7e97b 5150 openrtp_1.2.0-0_amd64.buildinfo
+ f26d9adcae138367f2f356ab3752046d207447cb8ff9ae4a5f634e3c81bb4f8f 253920420 openrtp_1.2.0-0_amd64.deb
+Files:
+ 754cb424e02d753929f43201feeece31 539 science extra openrtp_1.2.0-0.dsc
+ d5cdd169abcfc206422f6466d0996252 266305111 science extra openrtp_1.2.0-0.tar.gz
+ a3f9132b11d4754608e6d5e272941d7b 5150 science extra openrtp_1.2.0-0_amd64.buildinfo
+ 3179d39f04f5abf055380e18c121b6b7 253920420 science extra openrtp_1.2.0-0_amd64.deb
