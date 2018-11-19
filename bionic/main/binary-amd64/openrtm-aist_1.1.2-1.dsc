@@ -13,8 +13,8 @@ Package-List:
  openrtm-aist-doc deb science extra arch=all
  openrtm-aist-example deb science extra arch=any
 Checksums-Sha1:
- cefa6f278c3318395f6b9f39c269f287c9a1e879 88064172 openrtm-aist_1.1.2-1.tar.gz
+ e24c1565441bee05e7bb1f0fb9ed96ab3364e90a 74305533 openrtm-aist_1.1.2-1.tar.gz
 Checksums-Sha256:
- 824b7d84011ef030e91686509686c073aef3bdd8c796df3b01b36740a802527c 88064172 openrtm-aist_1.1.2-1.tar.gz
+ f9460275bbf6895f52f01251b90ddff0aed610db211cb7bc5844f10229c29915 74305533 openrtm-aist_1.1.2-1.tar.gz
 Files:
- 0993887063bd0c61803a422de9b9d36c 88064172 openrtm-aist_1.1.2-1.tar.gz
+ 8aacd0b5c3b6989d8bb29f504d979da6 74305533 openrtm-aist_1.1.2-1.tar.gz
